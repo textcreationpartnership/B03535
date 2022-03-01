@@ -1,0 +1,254 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A groatsworth of good counsel for a penny; or, The bad husbands repentance. Bad husbands all, come hear what I have pend, I hope this song to you will be a friend, and let no man now spend his means in waste, it brings him into poverty and disgrace, and now bad husbands hear what I say, and save a groat against a rainy day. To the tune of Packingtons pound; or Digby's farewel. With [a]llowance.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1670-1696?</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B03535</idno>
+            <idno type="STC">Wing G2058</idno>
+            <idno type="STC">Interim Tract Supplement Guide EBB65H[127]</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.8[204]</idno>
+            <idno type="EEBO-CITATION">99887165</idno>
+            <idno type="PROQUEST">ocm99887165</idno>
+            <idno type="VID">181876</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B03535)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 181876)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A2:3[127]; A5:2[159])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A groatsworth of good counsel for a penny; or, The bad husbands repentance. Bad husbands all, come hear what I have pend, I hope this song to you will be a friend, and let no man now spend his means in waste, it brings him into poverty and disgrace, and now bad husbands hear what I say, and save a groat against a rainy day. To the tune of Packingtons pound; or Digby's farewel. With [a]llowance.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill. (woodcuts).  </extent>
+               <publicationStmt>
+                  <publisher>Printed for P. Brooksby, at the sign of the Golden-Ball, in Pye-Corner.,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[between 1670-1696]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place and date of publication suggested by Wing.</note>
+                  <note>Verse: "Come hither good fellows and hear what I say ..."</note>
+                  <note>Item at A5:2[159] imperfect: trimmed, affecting imprint.</note>
+                  <note>Reproduction of original in the Harvard University, Houghton Library and the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ballads, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:181876:1"/>
+            <!-- PDF PAGE 10 -->
+            <head>A Groatſworth of Good Counſel for a Penny;</head>
+            <head type="sub">Or, <hi>The Bad</hi> Husbands <hi>Repentance.</hi>
+            </head>
+            <argument>
+               <l>Bad Husbands all, come hear what <hi>I</hi> have pend,</l>
+               <l>I hope this ſong to you will be a friend,</l>
+               <l>And let no man now ſpend his means in waſte,</l>
+               <l>It brings him into poverty and diſgrace,</l>
+               <l>And now bad Husbands hear what <hi>I</hi> ſay,</l>
+               <l>And ſave a groat againſt a rainy day.</l>
+            </argument>
+            <opener>To the Tune of Packingtons Pound; Or, Digby's farewel.</opener>
+            <argument>
+               <p>With <gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>llowance.</p>
+            </argument>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>COme hither good fellows and hear what I ſay,</l>
+               <l>A new ſong I will ſing if you pleaſe for to ſtay</l>
+               <l>And if you will be warned by me,</l>
+               <l>To be careful in time and ſave your mony,</l>
+               <l>Foul Winters are long, and cold weather is hard</l>
+               <l>And a man without money no one will regard,</l>
+               <l>Let your wife and your children be your chief care,</l>
+               <l>For wring-ſpiggots care not how hard they do fare</l>
+               <l>There's ſome are ſo cunning they'l hold you in play</l>
+               <l>For to get your money, they'l cauſe you to ſtay:</l>
+               <l>With ſo many fine words, and may chance a fine bit</l>
+               <l>While your money doth laſt, ſhe will cauſe you to ſit</l>
+               <l>Vntil their ſtrong liquor doth flye in your face,</l>
+               <l>You are apt all your money then to part with apace,</l>
+               <l>Then the Ale-wives market is got to a head,</l>
+               <l>while your wife &amp; children may chance to want bred.</l>
+               <l>If you ſell houſe or Lands or put goods unto ſale,</l>
+               <l>If they ſee you have money you ſhall not want ale;</l>
+               <l>For as long as my money did hold out and run,</l>
+               <l>I was bravely reſpected by every man:</l>
+               <l>But now I do know and I plainly do ſee,</l>
+               <l>It was more for the love of my money then me;</l>
+               <l>As long as a man has a coat on his back</l>
+               <l>To fill in their liquor they will not be ſtack.</l>
+               <l>This by experience I find to be true,</l>
+               <l>Which makes both my back and my belly to rue,</l>
+               <l>For when I had Gold and ſilver good ſtore,</l>
+               <l>There would be ſuch buſlings to ſet me aſhore:</l>
+               <l>But I have ſpent and waſted my ſtore,</l>
+               <l>I may knock twenty times e're they open the door,</l>
+               <l>And if <hi>I</hi> ſay <hi>I</hi> want money, will you truſt me a quart</l>
+               <l>Then they ſay honeſt friend we'r not truſted Malt.</l>
+               <l>If a man can be wiſe and conſider this Song,</l>
+               <l>It may chance to do him good for to guide him along</l>
+               <l>For ſpending and waſting conſumes a mans ſtate,</l>
+               <l>Then he falls into miſery and repents when to late</l>
+               <l>But that's not the way as I told you to day,</l>
+               <l>It is the ale-wives delight to make them their prey</l>
+               <l>The beſt thing that I know is for a man to take care</l>
+               <l>Then his wife and his children the better will fare,</l>
+               <l>What is a man better to have ſtore of means,</l>
+               <l>And waſte it away like butter in the Sun,</l>
+               <l>Then he like a Cow that doth fill a great pale,</l>
+               <l>And after to caſt it all down with her heel,</l>
+               <l>But be careful to labour in an honeſt way</l>
+               <l>Then God he will bleſs you by night and by day.</l>
+               <l>that man is bewicht that hath a good ſtate of his own</l>
+               <l>And not be content till 'tis gone down the red lane.</l>
+            </lg>
+            <lg>
+               <l>If you drink the very ſhirt and Coat from your back,</l>
+               <l>If ſome get your money they care not who lack,</l>
+               <l>And they ſit in their Chair in pomp and in ſtate,</l>
+               <l>As long as you have a penny they'l hold you in prate:</l>
+               <l>But if that they ſee that your pockets are bare,</l>
+               <l>They ſay honeſt friend we will fill no more beer:</l>
+               <l>Pray pay your reckoning and go home to your wife,</l>
+               <l>If ſhe chance to look you, ſhe'l lead you a bad life.</l>
+            </lg>
+            <lg>
+               <l>I told you before in a Song I did ſing,</l>
+               <l>That winter is long and much hungar doth bring,</l>
+               <l>And many a family comes unto want,</l>
+               <l>Where husbands are given to drink and to rant:</l>
+               <l>Therefore it is good to keep ſomething in ſtore,</l>
+               <l>And learn to paſs by ale-houſes door,</l>
+               <l>And think of cold winter, for be ſure it will come,</l>
+               <l>If means then be wanting then all are undone.</l>
+            </lg>
+            <lg>
+               <l>Let old Age and Sickneſs be a mans chiefeſt care,</l>
+               <l>Beſure it will come, we muſt all have a ſhare,</l>
+               <l>Then bad husbands will think what they ſpent in vain pots</l>
+               <l>When they have gon home and made themſelves ſots;</l>
+               <l>Is it not then folly for a man to do ſo,</l>
+               <l>He knows not his friend then I ſay from his Foe:</l>
+               <l>He waſteth his wit and conſumes his eſtate,</l>
+               <l>And repenteth his folly when it is too late.</l>
+            </lg>
+            <lg>
+               <l>Now in ſpending your money be not too free,</l>
+               <l>But truſt to your ſe<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ves when you do no ſee me,</l>
+               <l>And be ſure to ſave ſomething againſt a rainy day,</l>
+               <l>Then your own pot at home the better will play:</l>
+               <l>And to your own Wi<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e and Children be kind,</l>
+               <l>And that will be the part o<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> an h<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſt mans mind;</l>
+               <l>And not ſpend your money in a drunken crew,</l>
+               <l>Leſt they want it at home then the fault is in you.</l>
+            </lg>
+            <lg>
+               <l>Now in the Concluſion I have a word more to ſay,</l>
+               <l>Take every one one, and make no delay,</l>
+               <l>The price is but a penny and that is not dear,</l>
+               <l>The beſt penny worth of wit that you bought this 2 year:</l>
+               <l>And be ſure to obſerve it when you have it at home,</l>
+               <l>It may chance do you good when I am dead and gone,</l>
+               <l>It may ſave you a groat when you would caſt it away,</l>
+               <l>For to do you good in a cold winters day</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed for P. Brooksby, at the Sign of the Golden-Ball, in Pye-Corner.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
